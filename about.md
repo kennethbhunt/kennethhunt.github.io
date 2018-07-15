@@ -1,6 +1,5 @@
 ---
-layout: Writing
-title: About
+layout: pagetitle: About
 permalink: /about/
 ---
 
