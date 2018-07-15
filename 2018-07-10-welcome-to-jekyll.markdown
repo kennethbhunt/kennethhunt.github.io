@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: default
 title:  "Welcome to My New Website, Kitty!"
 date:   2018-07-10 15:33:51 -0600
 categories: jekyll update
