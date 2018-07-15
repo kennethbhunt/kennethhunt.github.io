@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Welcome to My New Website, Kitty!"
+title:  "Data Science for Decision Making"
 date:   2018-07-10 15:33:51 -0600
 categories: jekyll update
 ---
