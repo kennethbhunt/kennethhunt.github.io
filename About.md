@@ -1,13 +1,19 @@
 ---
 layout: page
-title: About Me
+title: About
+permalink: /about/
 ---
 
-Kenneth is a Data Scientist, and a passionate business minded individual, with a strong entrepreneurial spirit. Kenneth has worked hard to develop strong analytical and problem-solving skills to solve various business problems. He has experience with advanced machine learning algorithms in both the R programming language, as well as Python. 
-Kenneth’s goal is to help companies become more efficient and profitable, and to assist companies to make better business decisions.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-Areas of Focus: 
-Data Science
-Machine Learning Algorithms 
-Predictive Analytics
-Artificial Intelligence platforms like DataRobot and Splunk
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
+
