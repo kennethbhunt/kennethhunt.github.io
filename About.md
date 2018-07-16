@@ -11,4 +11,4 @@ Areas of Focus:
 • Data Science
 • Machine Learning Algorithms 
 • Predictive Analytics
-• Artificial Intelligence platforms like DataRobot & Splunk
+• Artificial Intelligence platforms like DataRobot and Splunk
