@@ -2,10 +2,7 @@
 layout: page
 title: About
 permalink: /about/
----
-
-
-Kenneth is a Data Scientist, and a passionate business minded individual, with a strong entrepreneurial spirit. Kenneth has worked hard to develop strong analytical and problem-solving skills to solve various business problems. He has experience with advanced machine learning algorithms in both the R programming language, as well as Python. 
+---Kenneth is a Data Scientist, and a passionate business minded individual, with a strong entrepreneurial spirit. Kenneth has worked hard to develop strong analytical and problem-solving skills to solve various business problems. He has experience with advanced machine learning algorithms in both the R programming language, as well as Python. 
 Kenneth’s goal is to help companies become more efficient and profitable, and to help companies make better business decisions.
 
 Areas of Focus: 
