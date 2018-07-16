@@ -3,7 +3,7 @@ layout: default
 title:  "A Blog by Kenneth B. Hunt, MBA"
 ---
 {% for file in site.static_files %}
-    {{ file.path }}
+    {{ file.path }} <br>
 {% endfor %}
 
 
