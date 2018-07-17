@@ -2,6 +2,14 @@
 layout: default
 title:  "A Blog by Kenneth B. Hunt, MBA"
 ---
+{% for file in site.static_files %}
+  {% if file.image %}
+    <img src="{{file.path}}" alt="{file.name}">
+  {% endif %}
+{% endfor %}
+
+
+
 
 <h3>Here is a test line</h3>
 
