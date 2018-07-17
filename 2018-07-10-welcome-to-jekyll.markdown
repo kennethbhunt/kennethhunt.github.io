@@ -2,10 +2,14 @@
 layout: default
 title:  "A Blog by Kenneth B. Hunt, MBA"
 ---
-{% assign image_files = site.static_files | where: "image", true %}
-{% for myimage in image_files %}
-  {{ myimage.path }}
+{% for file in site.static_files %} 
+  {% if file.image %}
+    <img src="{{file.path}}" alt="{file.name}">
+  {% endif %}
 {% endfor %}
+
+
+
 
 
 
