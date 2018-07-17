@@ -10,7 +10,7 @@ title:  "A Blog by Kenneth B. Hunt, MBA"
 
 
 
-<img img src="ken.jpg"alt="">
+<img src="ken.jpg"alt="">
 
 
 
