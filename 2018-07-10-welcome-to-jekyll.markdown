@@ -1,7 +1,6 @@
 ﻿---
 layout: default
 title:  "A Blog by Kenneth B. Hunt, MBA"
-preview-img:/assets/ken.jpg
 ---
 {% for file in site.static_files %} 
   {% if file.image %}
