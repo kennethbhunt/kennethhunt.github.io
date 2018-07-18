@@ -33,9 +33,9 @@ defaults:
   - scope:
       path: "assets"
     values:
-      image: 
+      image: true
 include: 
-   - "img" true# Exclude from processing.
+   - "img"# Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
