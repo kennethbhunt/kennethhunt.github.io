@@ -4,7 +4,7 @@ title:  "A Blog by Kenneth B. Hunt, MBA"
 ---
 {% for file in site.static_files %}
   {% if file.image %}
-    <img src="{{file.path}}" alt="{file.name}">
+    <img src="{{file.name}}" alt="{file.path}">
   {% endif %}
 {% endfor %}
 
