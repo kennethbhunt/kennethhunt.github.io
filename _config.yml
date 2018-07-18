@@ -31,7 +31,7 @@ plugins:
 
 defaults:
   - scope:
-      path: "img/assets"
+      path: "image.html"
     values:
       image: true
 include: 
