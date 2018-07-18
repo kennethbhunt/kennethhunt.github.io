@@ -11,7 +11,7 @@ title:  "A Blog by Kenneth B. Hunt, MBA"
 
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
-  {{ myimage.path }}
+  {{ myimage.name }}
 {% endfor %}
 
 
