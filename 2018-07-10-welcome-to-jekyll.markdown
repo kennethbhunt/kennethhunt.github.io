@@ -8,13 +8,6 @@ title:  "A Blog by Kenneth B. Hunt, MBA"
   {% endif %}
 {% endfor %}
 
-
-{% assign image_files = site.static_files | where: "image", true %}
-{% for myimage in image_files %}
-  {{ myimage.name }}
-{% endfor %}
-
-
 <img src="C:\Users\Kenneth Hunt\myblog--force\assets"alt="">
 
 Kenneth is a Data Scientist, and a passionate business minded individual, with a strong entrepreneurial spirit. Kenneth has worked hard to develop strong analytical and problem-solving skills to solve various business problems. He has experience with advanced machine learning algorithms in both the R programming language, as well as Python. 
