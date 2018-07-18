@@ -31,7 +31,7 @@ plugins:
 
 defaults:
   - scope:
-      path: ""
+      path: "assets"
     values:
       image: true
 include: 
