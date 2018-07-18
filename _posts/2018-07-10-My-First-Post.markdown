@@ -11,5 +11,6 @@ author: "Kenneth Hunt, MBA"
   {% endif %}
 {% endfor %}
 
+<IMG SRC="C:\Users\Kenneth Hunt\myblog--force\assets\img>
 
 Data science content
