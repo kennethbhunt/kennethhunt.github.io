@@ -34,8 +34,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
-include: 
-   - "image.html"# Exclude from processing.
+# Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
