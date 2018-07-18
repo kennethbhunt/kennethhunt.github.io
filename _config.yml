@@ -31,11 +31,11 @@ plugins:
 
 defaults:
   - scope:
-      path: "img"
+      path: "img/assets"
     values:
       image: true
 include: 
-   - "assets"# Exclude from processing.
+   - ""# Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
