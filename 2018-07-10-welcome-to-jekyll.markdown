@@ -15,10 +15,6 @@ title:  "A Blog by Kenneth B. Hunt, MBA"
 {% endfor %}
 
 
-![]({{ https://kennethbhunt.github.io/kennethhunt.github.io/ }}/assets/ken.jpg)
-
-
-
 <img src="C:\Users\Kenneth Hunt\myblog--force\assets"alt="">
 
 Kenneth is a Data Scientist, and a passionate business minded individual, with a strong entrepreneurial spirit. Kenneth has worked hard to develop strong analytical and problem-solving skills to solve various business problems. He has experience with advanced machine learning algorithms in both the R programming language, as well as Python. 
