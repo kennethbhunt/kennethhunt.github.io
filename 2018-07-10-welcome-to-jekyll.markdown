@@ -3,20 +3,6 @@ layout: default
 title:  "A Blog by Kenneth B. Hunt, MBA"
 image: ken.jpg
 ---
-{% for file in site.static_files %}
-  {% if file.image %}
-    <img src="{{file.path}}" alt="{file.name}">
-  {% endif %}
-{% endfor %}
-
-<img src="C:\Users\Kenneth Hunt\myblog--force\assets\img\ken.jpg"alt="file.name">
-
-![ken.jpg][{{datasciencepro.solutions}}/assets/images/ken.JPG]
-
-![ken.jpg][{{kennethhunt.github.io/assets/imgages/}}/assets/ken.JPG]
-
-<img src="{{kennethhunt.github.io}}/assets/img/ken.jpg">
-![image](/assets/img/ken.jpg)
 <img src="/assets/img/ken.jpg" alt="">
 
 
