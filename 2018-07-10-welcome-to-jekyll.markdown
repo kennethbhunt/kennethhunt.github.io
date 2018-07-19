@@ -10,11 +10,16 @@ image: ken.jpg
   {% endif %}
 {% endfor %}
 
+<img src="C:\Users\Kenneth Hunt\myblog--force\assets\img\ken.jpg"alt="file.name">
+
+![ken.jpg][{{datasciencepro.solutions}}/assets/images/ken.JPG]
+
+![ken.jpg][{{kennethhunt.github.io/assets/imgages/}}/assets/ken.JPG]
 
 <img src="{{kennethhunt.github.io}}/assets/img/ken.jpg" class='img-responsive'>
+![image](/assets/img/ken.jpg)
 
-
-
+<img src="/assets/img/ken.jpg" alt="">
 
 Kenneth is a Data Scientist, and a passionate business minded individual, with a strong entrepreneurial spirit. Kenneth has worked hard to develop strong analytical and problem-solving skills to solve various business problems. He has experience with advanced machine learning algorithms in both the R programming language, as well as Python. 
 Kenneth’s goal is to help companies become more efficient and profitable, and to help companies make better business decisions.
