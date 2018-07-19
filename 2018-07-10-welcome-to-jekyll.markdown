@@ -10,7 +10,6 @@ image: ken.jpg
   {% endif %}
 {% endfor %}
 
-<img src="C:\Users\Kenneth Hunt\myblog--force\assets\img\ken.jpg"alt="file.name">
 
 ![ken.jpg][{{datasciencepro.solutions}}/assets/images/ken.JPG]
 
