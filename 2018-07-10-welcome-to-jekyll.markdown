@@ -15,6 +15,10 @@ image: ken.jpg
 
 ![ken.jpg][{{kennethhunt.github.io/assets/imgages/}}/assets/ken.JPG]
 
+<img src="{{kennethhunt.github.io}}/assets/img/ken.jpg">
+![image](/assets/images/ken.jpg)
+<img src="/assets/images/ken.jpg" alt="">
+
 
 Kenneth is a Data Scientist, and a passionate business minded individual, with a strong entrepreneurial spirit. Kenneth has worked hard to develop strong analytical and problem-solving skills to solve various business problems. He has experience with advanced machine learning algorithms in both the R programming language, as well as Python. 
 Kenneth’s goal is to help companies become more efficient and profitable, and to help companies make better business decisions.
