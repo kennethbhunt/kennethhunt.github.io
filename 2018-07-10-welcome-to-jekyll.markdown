@@ -17,7 +17,7 @@ image: ken.jpg
 
 <img src="{{kennethhunt.github.io}}/assets/img/ken.jpg">
 ![image](/assets/images/ken.jpg)
-<img src="/assets/images/ken.jpg" alt="">
+<img src="/assets/image/ken.jpg" alt="">
 
 
 Kenneth is a Data Scientist, and a passionate business minded individual, with a strong entrepreneurial spirit. Kenneth has worked hard to develop strong analytical and problem-solving skills to solve various business problems. He has experience with advanced machine learning algorithms in both the R programming language, as well as Python. 
