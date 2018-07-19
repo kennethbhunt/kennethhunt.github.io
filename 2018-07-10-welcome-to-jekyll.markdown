@@ -11,7 +11,7 @@ image: ken.jpg
 
 
 
-![ken.jpg][{{datasciencepro.solutions}}/assets/images/ken.JPG]
+
 
 ![ken.jpg][{{kennethhunt.github.io/assets/imgages/}}/assets/ken.JPG]
 
