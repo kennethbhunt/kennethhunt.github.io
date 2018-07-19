@@ -14,7 +14,7 @@ image: ken.jpg
 
 
 
-![image](/assets/img/ken.jpg)
+
 
 <img src="/assets/img/ken.jpg" alt="">
 
