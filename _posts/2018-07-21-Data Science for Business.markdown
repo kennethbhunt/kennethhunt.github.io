@@ -28,7 +28,7 @@ image: me3.jpg
 
 
 
-![me3]({{ "/assets/me3.jpg" | https://kennethhunt.github.io }})
+![me3]({{ "/assets/me3.jpg" | absolute_url }})
 
 Data science content 
 
