@@ -15,12 +15,6 @@ image: ken.jpg
 
 
 
-![me3.jpg][{{kennethhunt.github.io/assets/imgages/}}/assets/me3.JPG]
-
-<img src="{{kennethhunt.github.io}}/assets/img/me3.jpg" class='img-responsive'>
-![image](/assets/img/me3.jpg)
-
-<img src="/assets/img/me3.jpg" alt="">
 
 
 
