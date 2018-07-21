@@ -3,7 +3,7 @@ layout: post
 title:  "Data Science for Business"
 date:   2018-07-21 15:33:51 -0600
 author: "Kenneth Hunt, MBA"
-image: ken.jpg
+image: me3.jpg
 ---
 {% for file in site.static_files %}
   {% if file.image.hide() %}
@@ -18,7 +18,7 @@ image: ken.jpg
 
 
 
-![image](/assets/img/ken.jpg)
+![image](/assets/img/me3.jpg)
 
 
 Data science content 
