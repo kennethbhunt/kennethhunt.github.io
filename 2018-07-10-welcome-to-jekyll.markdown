@@ -13,7 +13,7 @@ image: ken.jpg
 
 
 
-![ken.jpg][{{kennethhunt.github.io/assets/imgages/}}/assets/ken.JPG]
+
 
 <img src="{{kennethhunt.github.io}}/assets/img/ken.jpg" class='img-responsive'>
 ![image](/assets/img/ken.jpg)
