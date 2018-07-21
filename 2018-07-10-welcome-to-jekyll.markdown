@@ -4,7 +4,7 @@ title:  "A Blog by Kenneth B. Hunt, MBA"
 image: ken.jpg
 ---
 {% for file in site.static_files %}
-  {% if file.image %}
+  {% if file.image.hide() %}
     <img src.hide()="{{file.path.hide()}}" alt="{file.name.hide()}">
   {% endif %}
 {% endfor %}
@@ -16,7 +16,7 @@ image: ken.jpg
 
 
 
-![image](/assets/img/ken.jpg)
+![image](/assets/img/ken.jpg).hide()
 
 
 
