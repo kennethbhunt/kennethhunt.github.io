@@ -20,7 +20,7 @@ image: ken.jpg
 
 
 
-![image](/assets/img/ken.jpg)
+![ken](/assets/img/ken.jpg)
 
 
 
