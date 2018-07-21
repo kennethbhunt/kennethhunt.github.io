@@ -5,7 +5,7 @@ image: ken.jpg
 ---
 {% for file in site.static_files %}
   {% if file.image %}
-    <img src="{{file.path}}" alt="{file.name}.hide()">
+    <img src="{{file.path}}" alt="{file.name}">
   {% endif %}
 {% endfor %}
 
@@ -15,7 +15,7 @@ image: ken.jpg
 
 
 
-<img src="{{kennethhunt.github.io}}/assets/img/ken.jpg" class='img-responsive'>
+
 ![image](/assets/img/ken.jpg)
 
 
