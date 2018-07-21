@@ -26,6 +26,10 @@ image: me3.jpg
 ![me3](/assets/img/me3.jpg)
 
 
+
+
+![me3]({{ "/assets/me3.jpg" | kennethhunt.github.io }})
+
 Data science content 
 
 
