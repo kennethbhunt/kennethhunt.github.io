@@ -16,7 +16,7 @@ image: ken.jpg
 
 
 
-![image](/assets/img/ken.jpg).hide()
+![image](/assets/img/ken.jpg)
 
 
 
