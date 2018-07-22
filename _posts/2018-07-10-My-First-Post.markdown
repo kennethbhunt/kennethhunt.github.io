@@ -7,4 +7,4 @@ image: ken.jpg
 ---
 
 
-![ken]({{ "/assets/img/ken.jpg" | absolute_url }})
+![ken]({{ "/assets/img/me3.jpg" | absolute_url }})
