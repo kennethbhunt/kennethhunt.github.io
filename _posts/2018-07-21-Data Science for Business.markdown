@@ -28,7 +28,11 @@ image: me3.jpg
 
 
 
+
 ![me3]({{ "/assets/me3.jpg" | absolute_url }})
+
+
+![me3]({{ "/assets/img/me3.jpeg" | absolute_url }})
 
 Data science content 
 
