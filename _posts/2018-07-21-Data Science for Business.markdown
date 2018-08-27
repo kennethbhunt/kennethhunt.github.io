@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Welcome to DatasciencePro.solutions"
-date:   2018-08-08 15:33:51 -0600
+date:   2018-08-28 15:33:51 -0600
 author: "Kenneth Hunt, MBA"
 image: me3.jpg
 ---

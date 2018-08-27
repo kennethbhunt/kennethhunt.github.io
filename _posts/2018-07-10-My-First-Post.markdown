@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Data Science for Decision Making"
-date:   2018-08-27 15:33:51 -0600
+date:   2018-08-28 15:33:51 -0600
 author: "Kenneth Hunt, MBA"
 image: me3.JPG
 ---
@@ -19,6 +19,9 @@ forecast quantities of product items, and having a better understanding of histo
 Forecasting time series data is key for any business to remain competitive and to operate at the most efficient manner
  possible. I’m going the explore 3 simple forcasting methods that may be used in forecasting time series data, and it may
  also be used as benchmarking more complex time series forcasting methods.
+
+This is a look at the "Bike Sharing Dataset" from the UCI Machine Learning Repository. This dataset contains the daily 
+count of rented bikes during 2011-2012. 
 
 ![cap]({{ "/assets/img/cap.jpg" | absolute_url }})
 
