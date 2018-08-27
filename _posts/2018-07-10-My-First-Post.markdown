@@ -8,3 +8,5 @@ image: me3.JPG
 
 
 ![ken]({{ "/assets/img/me3.JPG" | absolute_url }})
+
+Data science content 
