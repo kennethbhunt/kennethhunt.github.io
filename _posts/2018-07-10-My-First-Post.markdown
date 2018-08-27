@@ -1,15 +1,13 @@
 ﻿---
 layout: post
 title:  "Data Science for Decision Making"
-date:   2018-07-10 15:33:51 -0600
+date:   2018-08-27 15:33:51 -0600
 author: "Kenneth Hunt, MBA"
 image: me3.JPG
 ---
 
 
-![ken]({{ "/assets/img/me3.JPG" | absolute_url }})
-
-Companies today are generating large amounts of data. The data is very useful by business decision makers to draw 
+Many types of companies today are generating large amounts of data. The data is very useful by business decision makers to draw 
 inferences from and to help them make choices that will allow their companies to be as efficient and profitable and 
 possible.
 
