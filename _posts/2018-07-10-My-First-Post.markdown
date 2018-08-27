@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Data Science for Decision Making"
+title:  "Benchmarking Time Series Data"
 date:   2018-08-28 15:33:51 -0600
 author: "Kenneth Hunt, MBA"
 image: me3.JPG
