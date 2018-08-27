@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title:  "Data Science for Business"
-date:   2018-07-21 15:33:51 -0600
+title:  "Welcome to DatasciencePro.solutions"
+date:   2018-09-01 15:33:51 -0600
 author: "Kenneth Hunt, MBA"
 image: me3.jpg
 ---
@@ -16,7 +16,10 @@ Data scientists help to generate a great amount of value to companies by answeri
  algorithms, and other skills. Data scientists have the ability to provide value by applying manual data science systems, and by using 
 automated systems like DataRobot, and Splunk software.
 Artificial intelligence(AI) sysytems are processes that formally required humans to perform, and are now automated. AI systems like DataRobot 
-and Splunk, generate business value by automating and optimizing processes for actionable insights for high level decision makers.
+and Splunk, generate business value by automating and optimizing processes for actionable insights for executive decision makers.
+
+In future posts, I will be analyzing many data science related topics and techniques that data scientists use to help companies become more 
+efficient and profitable by making better business decions. 
 
 
 
