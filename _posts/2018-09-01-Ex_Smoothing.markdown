@@ -36,6 +36,11 @@ I will model the data here with simple exponential smoothing, and forecast the d
 The black line plots the data and shows changes in the data over time. The red line represents the "fitted"
 values along side the data, which is the predicted value of the simple exponential smoothing model. 
 
+Accuracy 
+
+ME RMSE MAE  MPE MAPE MASE  ACF1
+Training set 0.55 3.26 2.6 0.42 2.21 0.11 -0.05
+
 
 
 
