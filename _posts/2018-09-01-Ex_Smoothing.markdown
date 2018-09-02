@@ -6,9 +6,14 @@ author: "Kenneth Hunt, MBA"
 image: me3.JPG
 ---
 
-Exponential smoothing is one of the most popular methods of times series forcasting. Here I will perform
- a time series analysis on weekly sales of a cutting tool dataset(Montgomery & Johnson (1976))
+Exponential smoothing is one of the most popular methods of times series forcasting. Exponential smoothing 
+is a forcasting method that was proposed in the 1950's. The forecast that are produced are weighted averages
+of of past observations. Therefore, more recent observations will have higher weights in the forecasting model.
+Exponential smoothing is known for producing reliable forecast for a variety of time series data. 
 
+
+
+Here I will perform a time series analysis on weekly sales of a cutting tool dataset(Montgomery & Johnson (1976))
  
 ![ep1]({{ "/assets/img/ep1.png" | absolute_url }})
 
@@ -36,12 +41,18 @@ I will model the data here with simple exponential smoothing, and forecast the d
 The black line plots the data and shows changes in the data over time. The red line represents the "fitted"
 values along side the data, which is the predicted value of the simple exponential smoothing model. 
 
+
 Accuracy For Simple Exponential Smoothing 
-
-
-                
-
+              
 Training set RMSE 3.26 MAPE 2.21 MASE 0.11 
+
+
+
+
+
+
+
+
 
 
 
