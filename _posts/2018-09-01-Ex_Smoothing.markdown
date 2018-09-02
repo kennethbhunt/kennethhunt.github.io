@@ -44,6 +44,12 @@ Training set 0.55 3.26 2.6 0.42 2.21 0.11 -0.05
 
 
 
+Hyndman, Rob J. and George Athanasopoulos (2018) 
+Forecasting: Principles and Practice. https://otexts.org/fpp2/
+
+
+
+
  
 
 
