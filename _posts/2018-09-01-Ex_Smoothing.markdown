@@ -38,12 +38,16 @@ values along side the data, which is the predicted value of the simple exponenti
 
 Accuracy For Simple Exponential Smoothing 
 
-               ME RMSE MAE  MPE MAPE MASE  ACF1
-Training set 0.55 3.26 2.6 0.42 2.21 0.11 -0.05
+
+                
+
+Training set RMSE 3.26 MAPE 2.21 MASE 0.11 
 
 
 
 
+
+References:
 Hyndman, Rob J. and George Athanasopoulos (2018) 
 Forecasting: Principles and Practice. https://otexts.org/fpp2/
 

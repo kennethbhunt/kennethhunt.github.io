@@ -49,4 +49,7 @@ should not be used in a forecast.
 
 
 
+References:
 
+Hyndman, Rob J. and George Athanasopoulos (2018) 
+Forecasting: Principles and Practice. https://otexts.org/fpp2/
