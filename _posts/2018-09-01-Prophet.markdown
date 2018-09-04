@@ -31,22 +31,14 @@ First I will fit the prophet model, the create the dataframe, which creates the 
  will be made on. 
 
 1091	2013-12-26			
-1092	2013-12-27			
-1093	2013-12-28			
-1094	2013-12-29			
-1095	2013-12-30			
-1096	2013-12-31	
-
+	
 Next, I used the "predict" function to get the forecast, and I create a dataframe called "forecast." The column 
 "yhat" contains the forecast. 
 
  ds     yhat yhat_lower yhat_upper
+
 1091 2013-12-26 5580.997   4437.752   6872.344
-1092 2013-12-27 5604.066   4336.375   6832.592
-1093 2013-12-28 5521.493   4184.561   6781.834
-1094 2013-12-29 5224.803   3964.679   6445.978
-1095 2013-12-30 5371.055   4097.027   6665.003
-1096 2013-12-31 5587.187   4296.161   6832.073
+
 
 Next, I plot the forecast...
 
