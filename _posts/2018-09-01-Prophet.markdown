@@ -11,10 +11,10 @@ image: me3.JPG
 Prophet is a software platform created by Facebook's core data science team as a procdeure for 
 forecasting time series data. Prophet supports what the team calls "Analyst in the Loop Modeling,"
 where current business analysts have significant domain knowledge of their particular industry, but 
-the lack training in time series forcasting. 
+they may lack training in time series forcasting. 
 
 Prophet boasts the ability to be accurate, and fast, while having the ability to produce reasonable 
-forecasts that can out perform many traditional appraoches. Prophet is fully automatic, and it also 
+forecasts that can out perform many traditional approaches. Prophet is fully automatic, and is also 
 tunable to make the forecast model more interpretable.
 
 ![cap]({{ "/assets/img/cap.jpg" | absolute_url }})
