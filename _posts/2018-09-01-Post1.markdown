@@ -7,6 +7,8 @@ image: me3.JPG
 ---
 
 
+
+
 Many types of companies today are generating large amounts of data. The data is very useful by business decision makers to draw 
 inferences from and to help them make choices that will allow their companies to be as efficient and profitable and 
 possible.
@@ -46,6 +48,19 @@ In the chart above, we can see both the average method, and the naive, or the ra
 perform quite well for forcasts, or they can be used as benchmarks for more complex time series forecasts. It is important
  that if more complex time series forcasting methods are used, they must have higher performance than simple methods or they 
 should not be used in a forecast.
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125151167-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-125151167-1');
+</script>
+
+
 
 
 
