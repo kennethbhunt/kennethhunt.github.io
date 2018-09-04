@@ -1,0 +1,117 @@
+﻿---
+layout: post
+title:  "The Prophet Package"
+date:   2018-09-04 15:33:51 -0600
+author: "Kenneth Hunt, MBA"
+image: me3.JPG
+---
+
+![pp1]({{ "/assets/img/pp1.png" | absolute_url }})
+
+Prophet is a software platform created by Facebook's core data science team as a procdeure for 
+forecasting time series data. Prophet supports what the team calls "Analyst in the Loop Modeling,"
+where current business analysts have significant domain knowledge of their particular industry, but 
+the lack training in time series forcasting. 
+
+Prophet boasts the ability to be accurate, and fast, while having the ability to produce reasonable 
+forecasts that can out perform many traditional appraoches. Prophet is fully automatic, and it also 
+tunable to make the forecast model more interpretable.
+
+![cap]({{ "/assets/img/cap.jpg" | absolute_url }})
+
+This is an analysis of the “Bike Sharing Dataset” from the UCI Machine Learning Repository. This dataset
+contains the daily count of rented bikes during 2011-2012.
+
+![pp2]({{ "/assets/img/pp2.png" | absolute_url }})
+
+As in all time series analysis, I will visualize the data to examine the patterns of the data and to note 
+any irregularies. This chart shows no real evidence of a trend, and strong seasonality.
+
+First I will fit the prophet model, the create the dataframe, which creates the dates of which the predictions
+ will be made on. 
+
+1091	2013-12-26			
+1092	2013-12-27			
+1093	2013-12-28			
+1094	2013-12-29			
+1095	2013-12-30			
+1096	2013-12-31	
+
+Next, I used the "predict" function to get the forecast, and I create a dataframe called "forecast." The column 
+"yhat" contains the forecast. 
+
+ ds     yhat yhat_lower yhat_upper
+1091 2013-12-26 5580.997   4437.752   6872.344
+1092 2013-12-27 5604.066   4336.375   6832.592
+1093 2013-12-28 5521.493   4184.561   6781.834
+1094 2013-12-29 5224.803   3964.679   6445.978
+1095 2013-12-30 5371.055   4097.027   6665.003
+1096 2013-12-31 5587.187   4296.161   6832.073
+
+Next, I plot the forecast...
+
+![pp3]({{ "/assets/img/pp3.png" | absolute_url }})
+
+The plot below shows the forecast broken down into "trend," "Weekly Seasonality," and "Yearly Sesonality." This
+is mainly used to help the analyst understand the data. 
+
+![pp4]({{ "/assets/img/pp4.png" | absolute_url }})
+
+Below is an interactive Dyplot of the forecast, which is a great tool. 
+
+![pp5]({{ "/assets/img/pp5.png" | absolute_url }})
+
+The Prophet package seem to be a great tool for time series forcasting. I will continue to work with it and to learn all of the 
+capabilities of it. I'm sure that Prophet is a great tool for certain situations. 
+
+
+
+
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125151167-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-125151167-1');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+References:
+Sean J. Taylor∗
+†
+Facebook, Menlo Park, California, United States
+sjt@fb.com
+and
+Benjamin Letham†
+Facebook, Menlo Park, California, United States
+bletham@fb.com
+https://peerj.com/preprints/3190/
+https://facebook.github.io/prophet/docs/quick_start.html#r-api
+https://facebook.github.io/prophet/
+
+
+
+
+
+ 
+
+
+
+
+
