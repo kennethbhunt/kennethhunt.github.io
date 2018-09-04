@@ -49,11 +49,13 @@ is mainly used to help the analyst understand the data.
 
 ![pp4]({{ "/assets/img/pp4.png" | absolute_url }})
 
-Below is an interactive Dyplot of the forecast, which is a great tool. 
+Below is a link for the interactive Dyplot of the forecast, which is a great tool. 
+
+http://rpubs.com/kennethbhunt/416786
 
 ![pp5]({{ "/assets/img/pp5.png" | absolute_url }})
 
-The Prophet package seem to be a great tool for time series forcasting. I will continue to work with it and to learn all of the 
+The Prophet package seems to be a great tool for time series forcasting. I will continue to work with it and to learn all of the 
 capabilities of it. I'm sure that Prophet is a great tool for certain situations. 
 
 
