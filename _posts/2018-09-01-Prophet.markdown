@@ -40,7 +40,8 @@ Next, I used the "predict" function to get the forecast, and I create a datafram
 1091 2013-12-26 5580.997   4437.752   6872.344
 
 
-Next, I plot the forecast...
+Next, I plot the forecast. The data is a very small time series dataset from 2011 to 2012. The actual forecast
+begins in 2013 to 2014.
 
 ![pp3]({{ "/assets/img/pp3.png" | absolute_url }})
 
