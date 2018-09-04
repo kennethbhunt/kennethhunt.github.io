@@ -18,7 +18,7 @@ automated systems like DataRobot, and Splunk software.
 Artificial intelligence(AI) sysytems are processes that formally required humans to perform, and are now automated. AI systems like DataRobot 
 and Splunk, generate business value by automating and optimizing processes for actionable insights for executive decision makers.
 
-In future posts, I will be analyzing many data science related topics and techniques that data scientists use to help companies become more 
+I will analyze many data science related topics and techniques that data scientists use to help companies become more 
 efficient and profitable by making better business decions. 
 
 
