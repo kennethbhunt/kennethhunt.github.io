@@ -51,6 +51,15 @@ Training set RMSE 3.26 MAPE 2.21 MASE 0.11
 
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125151167-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-125151167-1');
+</script>
 
 
 
