@@ -13,9 +13,9 @@ forecasting time series data. Prophet supports what the team calls "Analyst in t
 where current business analysts have significant domain knowledge of their particular industry, but 
 they may lack training in time series forcasting. 
 
-Prophet boasts the ability to be accurate, and fast, while having the ability to produce reasonable 
+Prophet boasts the ability to be accurate and fast. It also has the ability to produce reasonable 
 forecasts that can out perform many traditional approaches. Prophet is fully automatic, and is also 
-tunable to make the forecast model more interpretable.
+tunable, which can help make the forecast model more interpretable.
 
 ![cap]({{ "/assets/img/cap.jpg" | absolute_url }})
 
