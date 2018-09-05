@@ -30,7 +30,22 @@ any irregularies. This chart shows no real evidence of a trend, and strong seaso
 First I will fit the prophet model, the create the dataframe, which creates the dates of which the predictions
  will be made on. 
 
-1091	2013-12-26			
+1091	2013-12-26	
+
+##           ds
+## 1 2011-01-01
+## 2 2011-01-02
+## 3 2011-01-03
+## 4 2011-01-04
+## 5 2011-01-05
+## 6 2011-01-06
+##              ds
+## 1091 2013-12-26
+## 1092 2013-12-27
+## 1093 2013-12-28
+## 1094 2013-12-29
+## 1095 2013-12-30
+## 1096 2013-12-31		
 	
 Next, I used the "predict" function to get the forecast, and I create a dataframe called "forecast." The column 
 "yhat" contains the forecast. 
@@ -38,6 +53,14 @@ Next, I used the "predict" function to get the forecast, and I create a datafram
  ds           yhat        yhat_lower  yhat_upper
 
 1091 2013-12-26 5580.997   4437.752   6872.344
+
+##              ds     yhat yhat_lower yhat_upper
+## 1091 2013-12-26 5580.997   4444.814   6834.478
+## 1092 2013-12-27 5604.066   4347.166   6833.899
+## 1093 2013-12-28 5521.493   4255.895   6810.019
+## 1094 2013-12-29 5224.803   3977.192   6390.138
+## 1095 2013-12-30 5371.055   4106.784   6628.873
+## 1096 2013-12-31 5587.187   4289.903   6883.783
 
 
 Next, I plot the forecast. The data is a very small time series dataset from 2011 to 2012. The actual forecast
