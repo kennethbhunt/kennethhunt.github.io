@@ -38,6 +38,67 @@ The number of predictors used in every splitting node is computed as follows:
 
 I am using the classification method since the churn variable is the response variable. 
 
+Confusion Matrix and Statistics
+
+          Reference
+Prediction   0   1
+         0 186  44
+         1  35  32
+                                          
+               Accuracy : 0.734           
+                 95% CI : (0.6799, 0.7834)
+    No Information Rate : 0.7441          
+    P-Value [Acc > NIR] : 0.6822          
+                                          
+                  Kappa : 0.2733          
+ Mcnemar's Test P-Value : 0.3681          
+                                          
+            Sensitivity : 0.4211          
+            Specificity : 0.8416          
+         Pos Pred Value : 0.4776          
+         Neg Pred Value : 0.8087          
+             Prevalence : 0.2559          
+         Detection Rate : 0.1077          
+   Detection Prevalence : 0.2256          
+      Balanced Accuracy : 0.6313          
+                                          
+       'Positive' Class : 1   
+
+
+The random forest model had an overall accuracy of 73.4%.This amount is somewhat misleading because it also has a sensitivity rate of 42% and a specificity rate of 84%. this means that the model predicts the "0" values much better at 84% than it does the customers that are likely to churn at 42%. The reason for this is the class imbalance; there are more non-churning customers than churning customers. One way to improve this is to use "oversampling" or "undersampling" to balance out the variables. 
+
+Confusion Matrix and Statistics
+
+          Reference
+Prediction   0   1
+         0 124  17
+         1  97  59
+                                          
+               Accuracy : 0.6162          
+                 95% CI : (0.5582, 0.6717)
+    No Information Rate : 0.7441          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.2508          
+ Mcnemar's Test P-Value : 1.372e-13       
+                                          
+            Sensitivity : 0.7763          
+            Specificity : 0.5611          
+         Pos Pred Value : 0.3782          
+         Neg Pred Value : 0.8794          
+             Prevalence : 0.2559          
+         Detection Rate : 0.1987          
+   Detection Prevalence : 0.5253          
+      Balanced Accuracy : 0.6687          
+                                          
+       'Positive' Class : 1
+
+For this dataset, using the "undersampling" method, I was able to produce the highest sensitivity rate of 77.63% 
+
+This is a great example of using the random forest algorithm to predict a customer churn rate of 77.63%. With new data such as similar information from a current customer, a more reliable method for predicting whether a customer is likely to leave can be developed. 
+
+This is a method for any company to begin to take steps to prevent losing customers, which will affect profitability. 
+
 
 
 
@@ -73,17 +134,7 @@ I am using the classification method since the churn variable is the response va
 
 
 References:
-Sean J. Taylor∗
-†
-Facebook, Menlo Park, California, United States
-sjt@fb.com
-and
-Benjamin Letham†
-Facebook, Menlo Park, California, United States
-bletham@fb.com
-https://peerj.com/preprints/3190/
-https://facebook.github.io/prophet/docs/quick_start.html#r-api
-https://facebook.github.io/prophet/
+https://rpubs.com/kennethbhunt/397212
 
 
 
