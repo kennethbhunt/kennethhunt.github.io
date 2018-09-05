@@ -6,7 +6,21 @@ author: "Kenneth Hunt, MBA"
 image: me3.JPG
 ---
 
-![pp1]({{ "/assets/img/pp1.png" | absolute_url }})
+![sc1]({{ "/assets/img/sc1.jpg" | absolute_url }})
+
+Customer Churn, or customer attrition is a very signifcant metric for companies. it is much less expensive 
+for most companies  to retain their current customers than it is to go through many marketing steps in an effort to 
+acquire new customers. This is an area  where data science can help companies by setting up systems to predict which 
+of a company's customers might by more likely to "churn" orleave the company. 
+
+This is an analysis of a data set containing 6 variables, and 1000 observations. The response variable of this dataset
+is “churn”, which describes whether a customer will leave the company based on the other variables which are “predictors”.
+The other 5 variable in this dataset are "Tenure", "Age", "Income", "Education", and "Members."
+
+The first thing that I will look at in the dataset is that there is a class imbalance with the number of customers that are
+churning "1" and the one who are not churning "0."
+
+![sc2]({{ "/assets/img/sc2.jpg" | absolute_url }})
 
 
 ##      tenure           age            income             educ      
