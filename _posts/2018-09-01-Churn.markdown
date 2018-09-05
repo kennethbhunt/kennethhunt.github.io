@@ -20,24 +20,10 @@ The other 5 variable in this dataset are "Tenure", "Age", "Income", "Education",
 The first thing that I will look at in the dataset is that there is a class imbalance with the number of customers that are
 churning "1" and the one who are not churning "0."
 
-![sc2]({{ "/assets/img/sc2.jpg" | absolute_url }})
+![sc2]({{ "/assets/img/sc2.png" | absolute_url }})
 
 
-##      tenure           age            income             educ      
-##  Min.   : 1.00   Min.   :18.00   Min.   :   9.00   Min.   :1.000  
-##  1st Qu.:17.00   1st Qu.:32.00   1st Qu.:  29.00   1st Qu.:2.000  
-##  Median :34.00   Median :40.00   Median :  47.00   Median :3.000  
-##  Mean   :35.53   Mean   :41.68   Mean   :  77.53   Mean   :2.671  
-##  3rd Qu.:54.00   3rd Qu.:51.00   3rd Qu.:  83.00   3rd Qu.:4.000  
-##  Max.   :72.00   Max.   :77.00   Max.   :1668.00   Max.   :5.000  
-##     members          churn      
-##  Min.   :1.000   Min.   :0.000  
-##  1st Qu.:1.000   1st Qu.:0.000  
-##  Median :2.000   Median :0.000  
-##  Mean   :2.331   Mean   :0.274  
-##  3rd Qu.:3.000   3rd Qu.:1.000  
-##  Max.   :8.000   Max.   :1.000
-
+As the graph above shows, there are approximately 73% more values in the "0" category than in the "1" category. It is possible this class imbalance will affect algorithms that may be used in a prediction. 
 
 
 
