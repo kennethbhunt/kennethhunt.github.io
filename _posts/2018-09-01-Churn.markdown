@@ -42,9 +42,9 @@ The random forest algorithm is similar to the bagging algorithm in that a large 
 
 The number of predictors used in every splitting node is computed as follows:
 
-*for regression trees it is the half of the total number of predictors
+*The number for regression trees is the half of the total number of predictors.
 
-*for classification trees it is approximately the square root of the total number of predictors.
+*The number for classification trees is approximately the square root of the total number of predictors.
 
 I am using the classification method here since the churn variable is the response variable. 
 
