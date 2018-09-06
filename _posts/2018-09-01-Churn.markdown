@@ -8,7 +8,7 @@ image: me3.JPG
 
 ![sc1]({{ "/assets/img/sc1.jpg" | absolute_url }})
 
-Customer Churn, or customer attrition is a very signifcant metric for companies. it is much less expensive 
+Customer Churn, or customer attrition is a very signifcant metric for companies. It is much less expensive 
 for most companies to retain their current customers than it is to go through many marketing steps in an effort to 
 acquire new customers. Losing customers also affects future growth for companies. This is an area  where data science can help companies by setting up systems to predict which of a company's customers might by more likely to "churn" or leave the company. 
 
@@ -38,13 +38,15 @@ Here is a look at the correlation chart for all of the variables. We can see str
 
 I divided the dataset into approximately 70% for the training set, and 30% for the testing set. I built the predictive model using the random forest algorithm. 
 
-The random forests technique is similar to bagging: a big number of training subsets are generated, and a separate tree is fit in each subset. In random forests, each tree uses a random sample of predictors at every splitting node. So all predictors are not used in each tree.
+The random forest algorithm is similar to the bagging algorithm in that a large number of training subsets are generated, and a separate tree is fit in each subset. In random forests, each tree uses a random sample of predictors at every splitting node. So all predictors are not used in each tree.
 
 The number of predictors used in every splitting node is computed as follows:
-*for the regression trees it is the half of the total number of predictors
-*for the classification trees it is approximately the square root of the total number of predictors.
 
-I am using the classification method since the churn variable is the response variable. 
+*for regression trees it is the half of the total number of predictors
+
+*for classification trees it is approximately the square root of the total number of predictors.
+
+I am using the classification method here since the churn variable is the response variable. 
 
 Confusion Matrix and Statistics
 
