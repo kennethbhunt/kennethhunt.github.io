@@ -16,16 +16,16 @@ I will cover 5 ways that a data scientist can be a very valuable asset for many 
 Business owners, high level management, and executives tend to have a great ability to make business decisions, and they have a high amount of domain knowledge in their fields. A data scientist can help them to make better decisions by providing additional analytics for company data to measure, track, and observe trends. 
 
 2. Helping to communicate insights and value of the data across the organization: 
-This can be the first of an organization becoming a “data driven” organization. Organizations are stronger when all of the employees are a part of the data culture by helping to present key business problems in their companies that need to be analyzed. Communication with data scientists has the potential to bring great value. 
+This can be the first step of an organization becoming a “data driven.”  Organizations are stronger when all of the employees are a part of the data culture by helping to present key business problems in their companies that need to be analyzed. This communication with data scientists has the potential to bring great value. 
 
 3. Data scientists can help when business opportunities are being sought:
-Instead of making assumptions, or guessing, quantifiable data-driven evidence for decision making for certain business opportunities can be used. 
+Instead of making assumptions or guessing, quantifiable data-driven evidence for decision making can be used for better business decisions. 
 
 4. Increasing the overall problem-solving capabilities of companies: 
-Data science has many “tools” to help solve business problems. As more people within organization increase their understanding of identifying business problems, and they begin to use their expertise to identify business questions that need to be analyzed, this will provide significant value. 
+Data science has many “tools” to help solve business problems. As more people within organizations increase their understanding of identifying business problems, they will begin to use their expertise to identify business questions that need to be analyzed. This process by all company employees will provide significant value when implemented. 
 
 5. Analyzing data that is not being used:
-This is a very difficult thing to analyze, but it is believed that a very large amount of data is not being analyzed at all. It is very likely that if an organization is not tracking a large amount of their data, they are possibly missing out on key insights that may lead to help their organization becoming more efficient and to make better decisions. 
+This is a very difficult thing to analyze, but it is believed that a very large amount of data is not being analyzed at all. It is very likely that if an organization is not tracking a large amount of their data, they are possibly missing out on key insights that may help their organization become more efficient and to make better decisions. 
 
 These are 5 ways that data science can help increase value in organizations. If an organization does not have a data scientist, there is certainly a large amount of potential to add business value. If a company has staff that works on data science activities, maybe those types of companies can consider outsourcing some of the work to consultants to increase business value.  
 
